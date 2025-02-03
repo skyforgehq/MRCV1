@@ -4,13 +4,13 @@
 
 **MRC V1.0**
 
-Developed by Mikhael da Silva, ... , ...
+Developed by Mikhael da Silva and ... , ... , ...
 
 ---
 Special thanks to contributors:
-Fida 495358
-Florent 420571
-Diego 102736
+- Fida 495358
+- Florent 420571
+- Diego 102736
 
 
 ---
