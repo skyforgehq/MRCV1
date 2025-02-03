@@ -2,7 +2,7 @@
 
 **Multifunction Radar Combination (MRC) Documentation**
 
-**MRC V1.0 **
+**MRC V1.0**
 
 Developed by Mikhael da Silva, ... , ...
 
