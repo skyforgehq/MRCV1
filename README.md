@@ -4,7 +4,9 @@
 
 **MRC V1.0 **
 
-Developed by Mikhael da Silva, ... 
+Developed by Mikhael da Silva, ... , ...
+
+---
 Special thanks to contributors:
 Fida 495358
 Florent 420571
